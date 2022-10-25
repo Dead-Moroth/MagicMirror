@@ -1,0 +1,36 @@
+{
+  "anytime": ["Hey sexy!"],
+  "morning": [
+    "Guten Morgen, Sonnenschein!",
+    "Wer braucht schon Kaffee, wenn man so ein Lächeln hat, wie du?",
+    "Los, schnapp es dir, Tiger!"
+  ],
+  "afternoon": [
+    "Bleib dran!!",
+    "Du machst einen Unterschied!",
+    "Du bist mehr!"
+  ],
+  "evening": [
+    "Du hast heute jemanden zum Lächeln gebracht, ich weiß es :)",
+    "Du hast die Welt verändert!",
+    "Der Tag ist besser, als erwartet"
+  ]
+  "....-01-01": [
+			"Frohes Neues!"
+		],
+  "....-10-25": [
+			"Anna hat Geburtstag!"
+		],
+  "....-01-10": [
+			"Mama hat Geburtstag!"
+		],
+  "....-01-27": [
+			"Rita hat Geburtstag!"
+		],  
+  "....-02-05": [
+			"Papa hat Geburtstag!"
+		],
+  "....-03-26": [
+			"Alles Gute zum Geburtstag!"
+		]  
+}
